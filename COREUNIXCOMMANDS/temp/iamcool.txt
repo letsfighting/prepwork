@@ -1,0 +1,5 @@
+To do this exercise you're going to do some work using the commands you know so far. You'll also need a text editor that can make plain text (.txt) files. Here's what you do:
+
+    Open your text editor and type some stuff into a new file. On OSX this could be TextWrangler. On Windows this might be Notepad++. On Linux this could be gedit. Any editor will work.
+    Save that file to your desktop and name it test.txt.
+    In your shell use the commands you know to copy this file to your temp directory that you've been working with.
